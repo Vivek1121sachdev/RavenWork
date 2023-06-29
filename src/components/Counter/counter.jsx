@@ -20,7 +20,7 @@ class Counter extends Component {
             <Box text1 = "1000" text2 = "Delivered Pakages"/>
             </div>
             <div className="box-2 col" style={{borderTop: "2px solid #D4D4D4",borderBottom: "2px solid #D4D4D4",borderLeft: "2px solid #D4D4D4",fontWeight: 600, fontSize : 40}}>
-            <Box text1 = "3000" text2 = "Satisfied Clientss"/>
+            <Box text1 = "3000" text2 = "Satisfied Clients"/>
             </div>
           </div>
         </div>
